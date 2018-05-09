@@ -41,4 +41,9 @@ def get():
             foud.append(movie)
     return foud
 user()
+<<<<<<< HEAD
 print("just to commit")
+=======
+
+
+>>>>>>> eb11fd76bad07de2ce8cd784f7740151ae8714bf
